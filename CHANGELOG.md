@@ -10,6 +10,18 @@
 > - :house: [Internal]
 > - :nail_care: [Polish]
 
+## 0.15.0
+
+#### :boom: Breaking Change
+
+- Requires ReScript 12.0.0 or newer https://github.com/rescript-lang/rescript-react/pull/154
+
+## 0.14.2
+
+#### :rocket: New Feature
+
+- Bindings for React 19.2 APIs. https://github.com/rescript-lang/rescript-react/pull/149
+
 ## 0.14.1
 
 #### :rocket: New Feature
